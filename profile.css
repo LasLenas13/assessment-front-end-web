@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    color: purple;
+  }
+  
+  h1 {
+    font-size: 45px;
+    color: green;
+    background-color: orange;
+    width: 190px;
+  }
+  
+  img {
+    width: 300px;
+    margin-left: 350px;
+  }
+  
+  p {
+    font-family: chalkduster;
+  }
+
+  .interest {
+    color: maroon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .skills {
+    color: #0077ff;
+    font-family: snellroundhand;
+  }
+
+  .three-buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #place {
+    margin-top: 15px;
+
+  }
+
+  #ritual {
+    margin-top: 15px;
+  }
+
+  .favButton {
+    color: plum;
+    height: 45px;
+    font-size: 20px;
+    box-shadow: 0 0 5px #fb6f92;
+  }
