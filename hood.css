@@ -1,0 +1,34 @@
+body {
+    color: red;
+    margin: 0;
+    background-image: url("https://media.istockphoto.com/id/91700994/photo/silver-creek-in-idaho-winding-through-green-paddocks.jpg?s=1024x1024&w=is&k=20&c=mbm7wIz-ian3H7aKP5Z19Pdr4QBqsKiWeMCMzHLbB5w=");
+    background-size: cover;
+}
+
+
+header {
+    color: silver;
+    background-color: aqua;
+    box-shadow: 0 0 5px black;
+}
+
+p {
+    font-size: 20px;
+}
+
+a {
+    color: yellow;
+}
+
+#eat {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+#random {
+    height: 30px;
+    margin-left: 7px;
+    background-color: coral;
+    border-radius: 5px;
+}
